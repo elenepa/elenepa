@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Sample post"
-date: 2022-01-01T00:00:00-05:00
+title: "ᲞᲘᲠᲕᲔᲚᲘ ᲞᲝᲡᲢᲘ"
+date: 2024-04-23
 draft: false
 ---
 
-ახალი პოსტი
+ჩემი პირველი პოსტი
+

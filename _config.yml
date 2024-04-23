@@ -1,6 +1,6 @@
 # Site settings
-title:          ᲑᲚᲝᲒᲘ
-description:    "მინიმალური Jekyll blog-ის თემა"
+title:          ᲔᲚᲔᲡ ᲑᲚᲝᲒᲘ
+description:    "თელავის ვარდისუბანის სკოლის მოსწავლის ბლოგი"
 baseurl:
 url:
 
@@ -12,8 +12,8 @@ google_analytics:
 
 # Author
 author:
-  name:         ავთო ფანგანი
-  url:          https:/blog.din.ge
+  name:         ᲔᲚᲔᲜᲔ ᲤᲐᲠᲔᲨᲘᲨᲕᲘᲚᲘ
+  url:          https:/elene.din.ge
   email:        blog@din.ge
 
 # Build settings
@@ -21,7 +21,7 @@ markdown:       kramdown
 include:
   - _pages
 
-# Assets
+    # Assets
 sass:
   sass_dir:     /assets/css/_sass
   style:        compressed

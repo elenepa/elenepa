@@ -1,30 +1,30 @@
 // Colors
 $default-color: #555 !default;
 $default-shade: #353535 !default;
-$default-tint: #aaa !default;
+$default-tint: #F6E8B8 !default;
 $grey-1: #979797 !default;
 $grey-2: #e5e5e5 !default;
 $grey-3: #f9f9f9 !default;
 $white: #fff !default;
-$blue: #4a9ae1 !default;
+$blue: #EEC76F !default;
 $shadow-color: rgba(0, 0, 0, .2) !default;
 $code-color: #bf616a !default;
 $body-bg: #fff;
 
 
 // Colors
-$default-color-dark: #98a0ac;
+$default-color-dark: #F6E8B8;
 $default-shade-dark: #353535;
-$default-tint-dark: #aaa;
+$default-tint-dark: #F6E8B8; // ტექსტის ფერი მუქ თემაში 
 $shadow-color-dark: rgba(255, 255, 255, .2);
 $code-color-dark: #db1400;
-$body-bg-dark: #0F1216;
+$body-bg-dark: #683611; // ფონის ფერი html, body მუქ თემაში
 
 
 // Fonts
-$serif-primary: 'Libre Baskerville', 'Times New Roman', Times, serif !default;
-$serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif !default;
-$sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif !default;
+$serif-primary: 'Noto serif Georgian'  !default;
+$serif-secondary: 'Noto serif Georgian'!default;
+$sans-serif: 'Noto sans Georgian' !default;
 $monospaced: Menlo, Monaco, monospace !default;
 
 //length variables for responsive design 

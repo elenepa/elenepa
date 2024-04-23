@@ -5,8 +5,9 @@
       @media (prefers-color-scheme: dark) {
         color: $default-color-dark;
       }
-      font-family: $sans-serif;
+      font-family: $serif-primary;
       font-size: 2.5rem;
+      font-weight:300;  
       margin: 1rem 0;
       text-align: center;
     }
@@ -17,6 +18,12 @@
       margin: 0 auto 3rem;
       width: 4rem;
     }
+    text-align:center;
+    .profile {
+        width: 15%; /* Ширина изображения */
+        border-radius: 25%; /* Делаем изображение круглым */
+        display: inline-block; /* Позволяет изображению быть в центре */
+      }    
   }
 
   &-clouds {

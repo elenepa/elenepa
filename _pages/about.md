@@ -1,7 +1,13 @@
 ---
 layout: page
-title: "About"
+title: "ᲔᲚᲔᲜᲔ ᲤᲐᲠᲔᲨᲘᲨᲕᲘᲚᲘ"
+profile:
+  align: center
+  image: profile.jpg
+published: true  
 permalink: /about/
 ---
 
-ამ ფურცელზე უნდა აღიწეროს ჩემს შესახებ
+
+### ᲗᲔᲚᲐᲕᲘᲡ ᲕᲐᲠᲓᲘᲡᲣᲑᲐᲜᲘᲡ ᲡᲙᲝᲚᲐ
+### VI ᲙᲚᲐᲡᲘ
