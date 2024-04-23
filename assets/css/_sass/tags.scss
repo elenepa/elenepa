@@ -20,10 +20,22 @@
     }
     text-align:center;
     .profile {
-        width: 15%; /* Ширина изображения */
+        width: 30%; /* Ширина изображения */
+      //   max-width: 100%;
+      //   height:auto;
         border-radius: 25%; /* Делаем изображение круглым */
         display: inline-block; /* Позволяет изображению быть в центре */
-      }    
+      } 
+    @media screen and (max-width: 600px) {
+      .profile {
+        width:70%
+      }
+    @media screen and (max-width: 450px) {
+      .profile {
+        width:90%;
+      }
+    }  
+    }  
   }
 
   &-clouds {
